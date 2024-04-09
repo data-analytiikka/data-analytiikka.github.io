@@ -7,5 +7,5 @@ layout: home
 
 ----
 
-[Just the Docs]: https://tilastoapu.wordpress.com/python/
+[Data-analytiikka Pythonilla]: https://tilastoapu.wordpress.com/python/
 [GitHub Pages]: https://github.com/taanila/
