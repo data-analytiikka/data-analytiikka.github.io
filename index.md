@@ -3,7 +3,9 @@ title: Home
 layout: home
 ---
 
-[Data-analytiikka Pythonilla] [GitHub Pages] 
+[Data-analytiikka Pythonilla] 
+
+[https://github.com/taanila/] 
 
 ----
 
