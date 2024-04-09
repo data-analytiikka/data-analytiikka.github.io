@@ -1,8 +1,8 @@
 title: Data-analytiikka
-description: A starter template for a Jeykll site using the Just the Docs theme!
+description: Github pages testisivusto
 theme: just-the-docs
 
 url: https://data-analytiikka.github.io
 
 aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+  Data-analytiikka Pythonilla: https://tilastoapu.wordpress.com/python
