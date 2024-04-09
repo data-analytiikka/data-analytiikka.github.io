@@ -10,4 +10,4 @@ layout: home
 ----
 
 [Data-analytiikka Pythonilla]: https://tilastoapu.wordpress.com/python/
-[GitHub Pages]: https://github.com/taanila/
+[https://github.com/taanila/]: https://github.com/taanila/
