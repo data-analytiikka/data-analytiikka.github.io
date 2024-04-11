@@ -1,6 +1,7 @@
 ---
 title: Etusivu
 layout: home
+nav_order: 0
 ---
 
 <h1>Data-analytiikka Pythonilla</h1>
