@@ -56,4 +56,5 @@ nav_order: 1
 <p>Tutustu asennuksen jälkeen <a href="https://tilastoapu.wordpress.com/2017/12/13/jupyter-2/" rel="noopener">Jupyter notebookin</a> toimintaan.</p>
 
 ----
+
 [Google Colab]: https://colab.research.google.com/
