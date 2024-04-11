@@ -4,10 +4,15 @@ layout: default
 nav_order: 1
 ---
 
+<h1>Ohjelmointiympäristö</h1>
+
 
 <p>Ensimmäiseksi tarvitset data-analytiikkaan sopivan muistio-tyyppisen ohjelmointiympäristön.</p>
+
 <h2>Google Colab</h2>
-<p>Jos et halua asentaa ympäristöä omalle koneellesi, niin voit käyttää ilmaista <strong>Google Colab</strong> -pilvipalvelua osoitteessa <a href="https://colab.research.google.com/" target="_blank" rel="noopener">https://colab.research.google.com/</a>. Palvelun käyttämiseen tarvitset Google-tunnuksen.</p>
+
+<p>Jos et halua asentaa ympäristöä omalle koneellesi, niin voit käyttää ilmaista <strong>Google Colab</strong> -pilvipalvelua osoitteessa <a href="https://colab.research.google.com/" target="_blank" rel="noopener">https://colab.research.google.com/</a> [Google Colab]. Palvelun käyttämiseen tarvitset Google-tunnuksen.</p>
+
 <h2>Miniconda</h2>
 <p>Omalle koneelle asennettavaksi ympäristöksi suosittelen <strong>Minicondaa</strong>.</p>
 <p>Voit katsoa Minicondan asennuksen kulun <a href="https://video.haaga-helia.fi/media/miniconda/0_34c586jq" target="_blank" rel="noopener">videolta</a>.</p>
@@ -49,3 +54,6 @@ nav_order: 1
 <p>Anaconda sisältää paljon kirjastoja, joita et koskaan tarvitse. Jos haluat asentaa vain tarvitsemasi, niin asenna Anacondan sijasta Miniconda.</p>
 <h2>Asennuksen jälkeen</h2>
 <p>Tutustu asennuksen jälkeen <a href="https://tilastoapu.wordpress.com/2017/12/13/jupyter-2/" rel="noopener">Jupyter notebookin</a> toimintaan.</p>
+
+----
+[Google Colab]: https://colab.research.google.com/
