@@ -55,6 +55,8 @@ nav_order: 1
 <h2>Asennuksen jälkeen</h2>
 <p>Tutustu asennuksen jälkeen <a href="https://tilastoapu.wordpress.com/2017/12/13/jupyter-2/" rel="noopener">Jupyter notebookin</a> toimintaan.xx</p>
 
+[Google Colab]
+
 ----
 
 [Google Colab]: https://colab.research.google.com/
