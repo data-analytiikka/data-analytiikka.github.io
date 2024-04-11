@@ -1,3 +1,9 @@
+---
+title: Etusivu
+layout: default
+---
+
+
 <p>Ensimmäiseksi tarvitset data-analytiikkaan sopivan muistio-tyyppisen ohjelmointiympäristön.</p>
 <h2>Google Colab</h2>
 <p>Jos et halua asentaa ympäristöä omalle koneellesi, niin voit käyttää ilmaista <strong>Google Colab</strong> -pilvipalvelua osoitteessa <a href="https://colab.research.google.com/" target="_blank" rel="noopener">https://colab.research.google.com/</a>. Palvelun käyttämiseen tarvitset Google-tunnuksen.</p>
