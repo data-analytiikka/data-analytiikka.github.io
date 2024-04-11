@@ -53,10 +53,8 @@ nav_order: 1
 <p style="padding-left: 40px"><a href="https://docs.anaconda.com/anaconda/" target="_blank" rel="noopener noreferrer">https://docs.anaconda.com/anaconda/</a></p>
 <p>Anaconda sisältää paljon kirjastoja, joita et koskaan tarvitse. Jos haluat asentaa vain tarvitsemasi, niin asenna Anacondan sijasta Miniconda.</p>
 <h2>Asennuksen jälkeen</h2>
-<p>Tutustu asennuksen jälkeen <a href="https://tilastoapu.wordpress.com/2017/12/13/jupyter-2/" rel="noopener">Jupyter notebookin</a> toimintaan.</p>
-
+<p>Tutustu asennuksen jälkeen <a href="https://tilastoapu.wordpress.com/2017/12/13/jupyter-2/" rel="noopener">Jupyter notebookin</a> toimintaan.xx</p>
 
 ----
-
 
 [Google Colab]: https://colab.research.google.com/
