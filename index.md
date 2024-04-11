@@ -34,4 +34,5 @@ nav_order: 0
 
 <p>Osa tällä sivustolla esiteltävistä menetelmistä voidaan toteuttaa valmisohjelmilla (esimerkiksi Excelillä). Vakavampaan työskentelyyn data-analytiikassa tarvitaan kuitenkin ohjelmointikieltä. Python kattaa kaikki data-analytiikassa tarvittavat menetelmät. Python mahdollistaa myös data-analytiikan automatisoinnin ja yhdistämisen muihin sovelluksiin. Näin ollen on perusteltua opetella Pythonin käyttö kaikkien menetelmien osalta.</p>
 
+{: .highlight }
 <p>Mitä enemmän kirjoitat koodia sitä paremmin koodin kirjoittaminen sujuu!</p>
