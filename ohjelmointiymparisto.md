@@ -59,14 +59,7 @@ nav_order: 1
 
 [https://github.com/taanila/] 
 
-
-
-[Google Colab]
-
-
 ----
 
-[Google Colab]: https://colab.research.google.com/
 [Data-analytiikka Pythonilla]: https://tilastoapu.wordpress.com/python/
 [https://github.com/taanila/]: https://github.com/taanila/
-
