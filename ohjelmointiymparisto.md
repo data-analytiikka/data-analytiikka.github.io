@@ -34,4 +34,4 @@ Miniconda sisältää Pythonin ja conda-paketinhallintajärjestelmän. Data-anal
 
 Myöhemmin voit tarpeen mukaan asentaa muita kirjastoja.
 
-Tutustu asennuksen jälkeen [jupyter-muistion](https://tilastoapu.wordpress.com/2017/12/13/jupyter-2/) toimintaan.
+Tutustu asennuksen jälkeen [jupyter-muistion](https://tilastoapu.wordpress.com/2017/12/13/jupyter-2/) toimintaan. Voit käynnistää jupyterin komentoriviltä komennolla `jupyter notebook`.
