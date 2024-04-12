@@ -18,11 +18,11 @@ callouts:
     title: Tärkeää
     color: blue
   new:
-    title: New
+    title: Uutta
     color: green
   note:
-    title: Note
+    title: Huomautus
     color: purple
   warning:
-    title: Warning
+    title: Varoitus
     color: red

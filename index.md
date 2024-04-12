@@ -28,9 +28,9 @@ Useimmille vaikeinta on päästä alkuun:
 * opittava ohjelmointiympäristön käytön perusteet
 * perehdyttävä algoritmiseen ajatteluun ja koodin kirjoittamiseen.
 
-Jos et ole aiemmin koodannut, niin koodin kirjoittaminen on todennäköisesti vaikeaa ja vastenmielistä. Tähän ei auta muu kuin koodin kirjoittaminen. Mitä enemmän koodia kirjoitat sitä luontevammin se alkaa sujua. Kannattaa kirjoittaa kaikki sivustolla esitettävät esimerkkikoodit mieluummin kuin kopioida ne. Samalla kun kirjoitat koodia niin mieti koodin tarkoitusta. Jokaisella komennolla, sulkumerkillä, pilkulla, pisteellä jne. on tarkoituksensa. Koodin kirjoitus on luontevaa vasta kun ymmärrät koodin eri osien tarkoituksen eli ymmärrät ohjelmointikielen syntaksin/kieliopin.
+Jos et ole aiemmin koodannut, niin koodin kirjoittaminen on todennäköisesti vaikeaa ja vastenmielistä. Tähän ei auta muu kuin koodin kirjoittaminen. Mitä enemmän koodia kirjoitat sitä paremmin se sujuu. Kannattaa kirjoittaa kaikki sivustolla esitettävät esimerkkikoodit mieluummin kuin kopioida ne. Samalla kun kirjoitat koodia niin mieti koodin tarkoitusta. Jokaisella komennolla, sulkumerkillä, pilkulla, pisteellä jne. on tarkoituksensa. Koodin kirjoitus on luontevaa vasta kun ymmärrät koodin eri osien tarkoituksen eli ymmärrät ohjelmointikielen syntaksin/kieliopin.
 
 Osa tällä sivustolla esiteltävistä menetelmistä voidaan toteuttaa valmisohjelmilla (esimerkiksi Excelillä). Vakavampaan työskentelyyn data-analytiikassa tarvitaan kuitenkin ohjelmointikieltä. Python kattaa kaikki data-analytiikassa tarvittavat menetelmät. Python mahdollistaa myös data-analytiikan automatisoinnin ja yhdistämisen muihin sovelluksiin. Näin ollen on perusteltua opetella Pythonin käyttö kaikkien menetelmien osalta.
 
 {: .important }
-Mitä enemmän kirjoitat koodia sitä paremmin koodin kirjoittaminen sujuu!
+Mitä enemmän koodia kirjoitat sitä luontevammin koodin kirjoittaminen sujuu!
