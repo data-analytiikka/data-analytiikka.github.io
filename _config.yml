@@ -15,7 +15,7 @@ callouts:
   highlight:
     color: yellow
   important:
-    title: Important
+    title: Tärkeää
     color: blue
   new:
     title: New
