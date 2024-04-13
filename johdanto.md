@@ -30,7 +30,6 @@ Jos käytät Google Colabia, niin et ehkä saa avattua dataa komennolla `df = pd
 * Lataa tarvittavat datat kyseiseen kansioon. Tämän muistion datan löydät osoitteesta [https://taanila.fi/data1.xlsx](https://taanila.fi/data1.xlsx).
 * Lisää jokaisen muistion ensimmäiseen soluun koodi, joka yhdistää Google Driven data-kansion oletuskansioksi:
 
-
     `from google.colab import drive`  
     `drive.mount('/gdrive')`  
     `%cd /gdrive/MyDrive/data`
