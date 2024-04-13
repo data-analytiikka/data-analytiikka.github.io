@@ -26,7 +26,7 @@ Tässä osiossa on tarkoituksena
 Jos käytät Google Colabia, niin et ehkä saa avattua dataa komennolla `df = pd.read_excel('https://taanila.fi/data1.xlsx')`. Suosittelen seuraavaa menettelyä:
 
 * Luo Google Driveen kansio, jolle annat nimeksi **data**. 
-* Lataa tarvittavat datat kyseiseen kansioon. [Pandas1](https://nbviewer.org/github/taanila/kuvaileva/blob/main/pandas1.ipynb) muistion datan löydät osoitteesta [https://taanila.fi/data1.xlsx](https://taanila.fi/data1.xlsx).
+* Lataa tarvittavat datat kyseiseen kansioon. [Pandas1](https://nbviewer.org/github/taanila/kuvaileva/blob/main/pandas1.ipynb)-muistion datan löydät osoitteesta [https://taanila.fi/data1.xlsx](https://taanila.fi/data1.xlsx).
 * Lisää jokaisen muistion ensimmäiseen soluun koodi, joka yhdistää Google Driven data-kansion oletuskansioksi:
 
     `from google.colab import drive`  
