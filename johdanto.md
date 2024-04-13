@@ -9,6 +9,7 @@ nav_order: 2
 Tässä osiossa on tarkoituksena
 
 * Tutustua alustavasti Python-koodaukseen.
+* Tutustua data-analytiikan peruspakettiin, jonka nimi on **pandas**.
 * Oppia Pythonin keskeiset tietorakenteet **lista** (list) ja **sanakirja** (dictionary).
 * Tutustua alustavasti data-analytiikan **pandas**-pakettiin (pakettia voidaan kutsua myös kirjastoksi) ja erityisesti oppia käyttämään pandas-paketissa määriteltyä **dataframe**-tietorakennetta.
 
@@ -26,7 +27,7 @@ Tässä osiossa on tarkoituksena
 Jos käytät Google Colabia, niin et ehkä saa avattua dataa komennolla `df = pd.read_excel('https://taanila.fi/data1.xlsx')`. Suosittelen seuraavaa menettelyä:
 
 * Luo Google Driveen kansio, jolle annat nimeksi **data**. 
-* Lataa tarvittavat datat kyseiseen kansioon. Tämän muistion datan löydät osoitteesta https://taanila.fi/data1.xlsx.
+* Lataa tarvittavat datat kyseiseen kansioon. Tämän muistion datan löydät osoitteesta [https://taanila.fi/data1.xlsx](https://taanila.fi/data1.xlsx).
 * Lisää jokaisen muistion ensimmäiseen soluun koodi, joka yhdistää Google Driven data-kansion oletuskansioksi:
 
 
@@ -35,4 +36,4 @@ Jos käytät Google Colabia, niin et ehkä saa avattua dataa komennolla `df = pd
     `%cd /gdrive/MyDrive/data`
 
 * Kun suoritat koodin, niin se kysyy lupaa kansion yhdistämiseen.
-* Avaa data viittaamalla nettiosoitteen sijasta tiedoston nimeen `df = pd.read_excel('data1.xlsx')`
+* Avaa data viittaamalla nettiosoitteen sijasta tiedoston nimeen `df = pd.read_excel('data1.xlsx')`.
