@@ -14,7 +14,7 @@ Ennen analysointia dataan täytyy tutustua huolellisesti. Erityisen tärkeää o
 * Lue huolellisesti muistion selitykset ja kommentit.
 * Kirjoita koodisolujen koodit omaan muistioosi ja siirry seuraavaan soluun vasta kun saat koodin onnistuneesti suoritettua. Pienimmätkin kirjoitusvirheet ja kielioppivirheet aiheuttavat virheilmoituksen. Virheilmoitukset ovat usein vaikeasti tulkittavia, mutta virheilmoituksesta kannattaa selvittää: millä rivillä virhe on ja virheilmoituksen viimeiseltä riviltä saatat saada selville minkälainen virhe on kyseessä?
 * Jos koodissa jokin asia askarruttaa, niin kannattaa tehdä omia kokeiluja ja kokeilla vaihtoehtoisia koodeja.
-* Lisää omia kommentteja ja huomautuksia. Koodisoluun voit lisätä kommenttirivin kirjoittamalla rivin alkuun risuaidan **#**. Pidempiä tekstejä voit kirjoittaa *Markdown**-soluihin (Colabissa **Text**-soluihin).
+* Lisää omia kommentteja ja huomautuksia. Koodisoluun voit lisätä kommenttirivin kirjoittamalla rivin alkuun risuaidan **#**. Pidempiä tekstejä voit kirjoittaa **Markdown**-soluihin (Colabissa **Text**-soluihin).
 
 ## Datan suodattaminen
 
@@ -24,7 +24,7 @@ Titanic!!! Dataan tutustumiseen täytyy lisätä tieto, mitkä muuttujista ovat 
 * Lue huolellisesti muistion selitykset ja kommentit.
 * Kirjoita koodisolujen koodit omaan muistioosi ja siirry seuraavaan soluun vasta kun saat koodin onnistuneesti suoritettua. Pienimmätkin kirjoitusvirheet ja kielioppivirheet aiheuttavat virheilmoituksen. Virheilmoitukset ovat usein vaikeasti tulkittavia, mutta virheilmoituksesta kannattaa selvittää: millä rivillä virhe on ja virheilmoituksen viimeiseltä riviltä saatat saada selville minkälainen virhe on kyseessä?
 * Jos koodissa jokin asia askarruttaa, niin kannattaa tehdä omia kokeiluja ja kokeilla vaihtoehtoisia koodeja.
-* Lisää omia kommentteja ja huomautuksia. Koodisoluun voit lisätä kommenttirivin kirjoittamalla rivin alkuun risuaidan **#**. Pidempiä tekstejä voit kirjoittaa *Markdown**-soluihin (Colabissa **Text**-soluihin).
+* Lisää omia kommentteja ja huomautuksia. Koodisoluun voit lisätä kommenttirivin kirjoittamalla rivin alkuun risuaidan **#**. Pidempiä tekstejä voit kirjoittaa **Markdown**-soluihin (Colabissa **Text**-soluihin).
 
 
 ## Datan muunnokset
@@ -33,7 +33,7 @@ Titanic!!! Dataan tutustumiseen täytyy lisätä tieto, mitkä muuttujista ovat 
 * Lue huolellisesti muistion selitykset ja kommentit.
 * Kirjoita koodisolujen koodit omaan muistioosi ja siirry seuraavaan soluun vasta kun saat koodin onnistuneesti suoritettua. Pienimmätkin kirjoitusvirheet ja kielioppivirheet aiheuttavat virheilmoituksen. Virheilmoitukset ovat usein vaikeasti tulkittavia, mutta virheilmoituksesta kannattaa selvittää: millä rivillä virhe on ja virheilmoituksen viimeiseltä riviltä saatat saada selville minkälainen virhe on kyseessä?
 * Jos koodissa jokin asia askarruttaa, niin kannattaa tehdä omia kokeiluja ja kokeilla vaihtoehtoisia koodeja.
-* Lisää omia kommentteja ja huomautuksia. Koodisoluun voit lisätä kommenttirivin kirjoittamalla rivin alkuun risuaidan **#**. Pidempiä tekstejä voit kirjoittaa *Markdown**-soluihin (Colabissa **Text**-soluihin).
+* Lisää omia kommentteja ja huomautuksia. Koodisoluun voit lisätä kommenttirivin kirjoittamalla rivin alkuun risuaidan **#**. Pidempiä tekstejä voit kirjoittaa **Markdown**-soluihin (Colabissa **Text**-soluihin).
 
 {: .important }
 Käytettävät analysointimenetelmät valitaan muuttujatyypin perusteella. Yleensä riittää jaotella muuttujatyypit kategorisiin ja määrällisiin.
