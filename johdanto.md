@@ -18,9 +18,10 @@ Tässä osiossa on tarkoituksena
 * Lue huolellisesti muistion selitykset ja kommentit.
 * Kirjoita koodisolujen koodit omaan muistioosi ja siirry seuraavaan soluun vasta kun saat koodin onnistuneesti suoritettua. Pienimmätkin kirjoitusvirheet ja kielioppivirheet aiheuttavat virheilmoituksen. Virheilmoitukset ovat usein vaikeasti tulkittavia, mutta virheilmoituksesta kannattaa selvittää: millä rivillä virhe on ja virheilmoituksen viimeiseltä riviltä saatat saada selville minkälainen virhe on kyseessä?
 * Jos koodissa jokin asia askarruttaa, niin kannattaa tehdä omia kokeiluja ja kokeilla vaihtoehtoisia koodeja.
+* Lisää omia kommentteja ja huomautuksia. Koodisoluun voit lisätä kommenttirivin kirjoittamalla rivin alkuun risuaidan **#**. Pidempiä tekstejä voit kirjoittaa *Markdown**-soluihin (Colabissa **Text**-soluihin).
 * Tässä ensimmäisessä muistiossa on häkellyttävän paljon opittavaa, varsinkin jos et ole aikaisemmin koodannut. Tähän kannattaa käyttää aikaa, koska näin luot hyvän pohjan tulevien osioiden oppimiselle. Kaikkiin tämän muistion asioihin palataan myöhemmissä osioissa.
 
-{: .note }
+{: .important }
 Kun avaat aiemmin kirjoitetun muistion, niin voit suorittaa kaikkien solujen koodit **Run**-valikon komennolla **Run All Cells** (Colabissa **Runtime - Run all**/**Suorituspalvelu - Suorita kaikki**). Komento auttaa myös usein, jos jostain syystä ajaudut umpikujaan koodin suorituksessa (näin voi käydä, jos esimerkiksi korjailet ja suorittelet välillä aiempien solujen koodeja).
 
 

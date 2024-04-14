@@ -36,6 +36,8 @@ Tutustu asennuksen jälkeen [jupyterin](https://tilastoapu.wordpress.com/2017/12
 
 Anaconda sisältää valmiiksi asennettuna jupyterin ja useimmat data-analytiikassa tarvittavat kirjastot. Asennusohjeet löydät osoitteesta https://docs.anaconda.com/free/anaconda/install/.
 
+Tutustu asennuksen jälkeen [jupyterin](https://tilastoapu.wordpress.com/2017/12/13/jupyter-2/) toimintaan. Jupyterin voit käynnistää jupyterin komentoriviltä komennolla `jupyter notebook`.
+
 ## Google Colab
 
 Jos et halua asentaa ympäristöä omalle koneellesi, niin voit käyttää ilmaiseksi pilvipalvelua [Google Colab](https://colab.research.google.com/). Palvelun käyttämiseen tarvitset Google-tunnuksen. Colab sisältää valmiiksi asennettuina useimmat data-analytiikassa tarvittavat paketit.

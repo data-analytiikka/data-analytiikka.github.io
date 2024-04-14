@@ -20,7 +20,7 @@ Tämän sivuston avulla voit oppia
 * koodaamaan Python-ohjelmointikielellä.
 
 
-Oppimiseen ei ole oikotietä, vaan sinun täytyy edetä aihe kerrallaan tämän sivuston mukaisessa järjestyksessä. Asiat selitetään silloin kun ne ensimmäisen kerran tulevat vastaan ja oleteaan sen jälkeen tunnetuksi.
+Oppimiseen ei ole oikotietä, vaan sinun täytyy edetä aihe kerrallaan tämän sivuston mukaisessa järjestyksessä. Asiat selitetään silloin kun ne ensimmäisen kerran tulevat vastaan ja oletetaan sen jälkeen tunnetuksi.
 
 Useimmille vaikeinta on päästä alkuun:
 
