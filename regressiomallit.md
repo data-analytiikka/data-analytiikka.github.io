@@ -1,5 +1,5 @@
 ---
-title: regressiomallit
+title: Regressiomallit
 layout: default
 nav_order: 10
 ---
