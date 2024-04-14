@@ -5,3 +5,5 @@ nav_order: 6
 ---
 
 # Selittävä analytiikka
+
+Tätä osio on vasta rakenteilla...
