@@ -4,7 +4,7 @@ layout: default
 nav_order: 2
 ---
 
-# Python + pandas
+## Python + pandas
 
 Tässä osiossa on tarkoituksena
 
@@ -12,7 +12,7 @@ Tässä osiossa on tarkoituksena
 * oppia Pythonin keskeiset tietorakenteet **lista** (list) ja **sanakirja** (dictionary)
 * tutustua alustavasti data-analytiikan **pandas**-pakettiin (pakettia voidaan kutsua myös kirjastoksi) ja erityisesti oppia käyttämään pandas-paketissa määriteltyä **dataframe**-tietorakennetta.
 
-## Opiskeluohjeita
+### Opiskeluohjeita
 
 * Oppimateriaalina on muistio [pandas1](https://nbviewer.org/github/taanila/kuvaileva/blob/main/pandas1.ipynb).
 * Lue huolellisesti muistion selitykset ja kommentit.
@@ -25,13 +25,13 @@ Tässä osiossa on tarkoituksena
 Kun avaat aiemmin kirjoitetun muistion, niin voit suorittaa kaikkien solujen koodit **Run**-valikon komennolla **Run All Cells** (Colabissa **Runtime - Run all**/**Suorituspalvelu - Suorita kaikki**). Komento auttaa myös usein, jos jostain syystä ajaudut umpikujaan koodin suorituksessa (näin voi käydä, jos esimerkiksi korjailet ja suorittelet välillä aiempien solujen koodeja).
 
 
-## Google Colabin käyttäjille
+### Google Colabin käyttäjille
 
 {: .warning }
 Jos käytät Google Colabia, niin et ehkä saa avattua dataa komennolla `df = pd.read_excel('https://taanila.fi/data1.xlsx')`. Suosittelen seuraavaa menettelyä:
 
 * Luo Google Driveen kansio, jolle annat nimeksi **data**. 
-* Lataa tarvittavat datat kyseiseen kansioon. [Pandas1](https://nbviewer.org/github/taanila/kuvaileva/blob/main/pandas1.ipynb)-muistion datan löydät osoitteesta [https://taanila.fi/data1.xlsx](https://taanila.fi/data1.xlsx).
+* Lataa tarvittavat datat kyseiseen kansioon. Osoitteesta [https://taanila.fi/data1.xlsx](https://taanila.fi/data1.xlsx) löydät esimerkki-muistion datan.
 * Lisää jokaisen muistion ensimmäiseen soluun koodi, joka yhdistää Google Driven data-kansion oletuskansioksi:
 
     `from google.colab import drive`  

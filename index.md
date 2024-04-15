@@ -4,7 +4,7 @@ layout: home
 nav_order: 0
 ---
 
-# Data-analytiikka Pythonilla
+## Data-analytiikka Pythonilla
 
 Python-ohjelmointikieli on suosittu, monipuolinen, tehokas ja ilmainen väline, jolla sujuu datan siivoaminen, kuvaileva analytiikka, selittävä analytiikka, aikasarjojen analysointi, ennakoiva analytiikka ja koneoppimisen mallit.
 

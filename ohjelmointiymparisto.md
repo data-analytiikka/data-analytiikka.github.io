@@ -4,15 +4,15 @@ layout: default
 nav_order: 1
 ---
 
-# Ohjelmointiympäristö
+## Ohjelmointiympäristö
 
 Data-analytiikassa kannattaa käyttää koodin kirjoittamiseen ja suorittamiseen muistio-tyyppistä ohjelmointiympäristöä. Suosittelen Minicondan, Anacondan tai Google Colabin käyttöä. Kaikissa edellä mainituissa käytetään [jupyteriin](https://jupyter.org/) perustuvaa muistio-tyyppistä ympäristöä.
 
-## Miniconda
+### Miniconda
 
 Omalle koneelle asennettavaksi ympäristöksi suosittelen Minicondaa. Katso kuitenkin [Minicondan ja Anacondan vertailu](https://docs.anaconda.com/free/distro-or-miniconda/) ennen kuin päätät.
 
-Minicondan löydät osoitteesta https://docs.anaconda.com/free/miniconda/. Valitse oma käyttöjärjestelmäsi (Windows, macOS tai Linux) ja asenna Miniconda oletusasetuksilla.
+Minicondan löydät osoitteesta [https://docs.anaconda.com/free/miniconda/](https://docs.anaconda.com/free/miniconda/). Valitse oma käyttöjärjestelmäsi (Windows, macOS tai Linux) ja asenna Miniconda oletusasetuksilla.
 
 Miniconda sisältää Pythonin ja conda-paketinhallintajärjestelmän. Data-analytiikassa tarvittavat lisäpaketit täytyy asentaa Minicondan asennuksen jälkeen condan avulla: 
 
@@ -30,15 +30,15 @@ Miniconda sisältää Pythonin ja conda-paketinhallintajärjestelmän. Data-anal
 
 Myöhemmin voit tarpeen mukaan asentaa muita kirjastoja.
 
-Tutustu asennuksen jälkeen [jupyterin](https://tilastoapu.wordpress.com/2017/12/13/jupyter-2/) toimintaan. Jupyterin voit käynnistää jupyterin komentoriviltä komennolla `jupyter notebook`.
+Tutustu asennuksen jälkeen [jupyterin](https://tilastoapu.wordpress.com/2017/12/13/jupyter-2/) toimintaan. Jupyterin voit käynnistää Minicondan komentoriviltä komennolla `jupyter notebook`.
 
-## Anaconda
+### Anaconda
 
-Anaconda sisältää valmiiksi asennettuna jupyterin ja useimmat data-analytiikassa tarvittavat kirjastot. Asennusohjeet löydät osoitteesta https://docs.anaconda.com/free/anaconda/install/.
+Anaconda sisältää valmiiksi asennettuna jupyterin ja useimmat data-analytiikassa tarvittavat kirjastot. Asennusohjeet löydät osoitteesta [https://docs.anaconda.com/free/anaconda/install/](https://docs.anaconda.com/free/anaconda/install/).
 
-Tutustu asennuksen jälkeen [jupyterin](https://tilastoapu.wordpress.com/2017/12/13/jupyter-2/) toimintaan. Jupyterin voit käynnistää jupyterin komentoriviltä komennolla `jupyter notebook`.
+Tutustu asennuksen jälkeen [jupyterin](https://tilastoapu.wordpress.com/2017/12/13/jupyter-2/) toimintaan.
 
-## Google Colab
+### Google Colab
 
 Jos et halua asentaa ympäristöä omalle koneellesi, niin voit käyttää ilmaiseksi pilvipalvelua [Google Colab](https://colab.research.google.com/). Palvelun käyttämiseen tarvitset Google-tunnuksen. Colab sisältää valmiiksi asennettuina useimmat data-analytiikassa tarvittavat paketit.
 

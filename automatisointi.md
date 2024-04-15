@@ -1,5 +1,5 @@
 ---
-title: Kuvailevan ja selittävän analytiikan automatisointi
+title: Automaattinen analysointi
 layout: default
 nav_order: 7
 ---
