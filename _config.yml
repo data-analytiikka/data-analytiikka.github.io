@@ -9,6 +9,8 @@ aux_links:
 
 aux_links_new_tab: true
 
+footer_content: "testi"
+
 search_enabled: false
 
 callouts:
