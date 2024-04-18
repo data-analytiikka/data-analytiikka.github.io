@@ -4,6 +4,14 @@ layout: default
 nav_order: 8
 ---
 
-# Aikasarjat
+## Aikasarjat
 
-Tätä osio on vasta rakenteilla...
+* Oppimateriaalina on [aikasarjat](https://nbviewer.org/github/taanila/aikasarjat/blob/main/aikasarjat.ipynb)-muistio.
+
+Muistiossa noudetaan pörssiosakkeiden kehitystä kuvaavat ajantasaiset aikasarjat [Yahoo Finance](https://finance.yahoo.com/)-palvelusta. Aina kun koodi suoritetaan, saadaan käyttöön uusimmat tiedot. Aikasarjojen noutamiseen käytetään **yfinance**-pakettia, jonka voit asentaa:
+
+* Minicondassa ja Anacondassa kometorivillä komennolla `conda install -c conda-forge yfinance`
+* Colabissa muistioon kirjoitettavalla komennolla `!pip install yfinance`.
+
+{: .new }
+Harjoittele toistamalla muistion analyysit käyttäen joitain muita pörssiosakkeita, raaka-aineita tai valuuttoja, joihin liittyvät aikasarjat löytyvät Yahoo Finance -palvelusta.
