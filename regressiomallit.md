@@ -6,8 +6,6 @@ nav_order: 11
 
 # Ohjatut regressiomallit
 
-Tämä osio on vasta rakenteilla...
-
 Regressiomallit on yleisnimitys koneoppimisen malleille, joissa ennustettava muuttuja eli **kohdemuuttuja** on määrällinen. Regressiomalleja voidaan hyödyntää esimerkiksi seuraavissa:
 
 * kesämökin hinnan ennakointi tontin koon, rantaviivan pituuden, rakennusmateriaalin ym. ominaisuuksien perusteella
@@ -26,7 +24,7 @@ Pythonin peruskirjasto koneoppimisen malleille on [scikit-learn](https://scikit-
 [Ensimmäisessä esimerkissä](https://nbviewer.org/github/taanila/koneoppiminen/blob/main/linreg1.ipynb) opit käyttämään lineaarista regressiota yhden selittävän muuttujan tapauksessa. Tässä esimerkissä opetusdatasta ei eroteta testidataa, koska data on liian pieni. Keskeisiä vaiheita ovat:
 
 * graafinen tarkastelu
-* selittävän muuttujien ja kohdemuuttujan määrittely
+* selittävän muuttujan ja kohdemuuttujan määrittely
 * mallin opettaminen **fit**-funktiolla
 * lineerisen regressiomallin **kulmakertoimen** ja **vakiotermin** tulkinta
 * mallin hyvyyden arviointi **selityskertoimen** avulla
@@ -35,28 +33,26 @@ Pythonin peruskirjasto koneoppimisen malleille on [scikit-learn](https://scikit-
 [Toisessa esimerkissä](https://nbviewer.org/github/taanila/koneoppiminen/blob/main/linreg2.ipynb) mukana on useita selittäviä muuttujia. Tässä esimerkissä opetusdatasta ei eroteta testidataa, koska data on liian pieni. Ensimmäisessä esimerkissä opittujen asioiden lisäksi opit:
 
 * tarkastelemaan korrelaatiokertoimia
-* tarkastelemaan mallin hyvyyttä graafisesti
-* laskemaan kattavan kokoelman lineaariseen regressioon liittyviä tunnuslukuja **statsmodels**-kirjaston avulla.
+* tarkastelemaan mallin hyvyyttä graafisesti.
 
-[Neljännessä esimerkissä](https://nbviewer.org/github/taanila/koneoppiminen/blob/main/advertising.ipynb) ennustetaan myyntiä eri mainosmedioihin käytetyn rahamäärän perusteella. Esimerkissä kokeillaan kolmea eri mallia:
+[Kolmannessa esimerkissä](https://nbviewer.org/github/taanila/koneoppiminen/blob/main/advertising.ipynb) ennustetaan myyntiä eri mainosmedioihin käytetyn rahamäärän perusteella. Esimerkissä kokeillaan kolmea eri mallia:
 
 * lineaarinen regressio
 * satunnaismetsäregressio
 * gradienttitehostusregressio.
 
-Esimerkissä koodataan aluksi yleiskäyttöinen funktio, joka osaa:
+Esimerkissä koodataan aluksi **yleiskäyttöinen funktio**, joka osaa:
 
-* sovittaa parametrina annetun mallin
-* laskee selityskertoimen
+* opettaa funktiolle parametrina annetun mallin
+* laskea selityskertoimen
 * piirtää mallin hyvyyttä kuvaavat grafiikat.
 
 Funktion avulla on helppo kokeilla eri malleja kutsumalla funktiota kunkin mallin kohdalla.
 
-[Viidennessä esimerkissä](https://nbviewer.org/github/taanila/koneoppiminen/blob/main/car_data.ipynb) ennustetaan käytetyn auton hintaa.
-
-
-
-  
+[Neljännessä esimerkissä](https://nbviewer.org/github/taanila/koneoppiminen/blob/main/car_data.ipynb) ennustetaan käytetyn auton hintaa. Uutena asiana opit muuntamaan **kategoriset muuttujat dikotomisiksi muuttujiksi**. Koneoppimisen malleja varten kategoriset selittävät muuttujat täytyy muuntaa dikotomisiksi muuttujiksi. Tämä koskee myös luokittelumalleja.  
 
 {: .new }
-x
+Opeta malli, joka ennustaa rakennuksen lämpökuorman. Lämpökuormaa tarvitaan rakennuksen lämmityslaitteiden mitoitukseen. Käytä dataa [ENB2012_data.xlsx](https://taanila.fi/ENB2012_data.xlsx). Datan lähde ja tarkempi kuvaus osoitteessa [https://www.kaggle.com/datasets/elikplim/eergy-efficiency-dataset](https://www.kaggle.com/datasets/elikplim/eergy-efficiency-dataset). Datassa selittävinä muuttujina ovat X1, X2, X3, X4, X5, X6, X7, X8 ja kohdemuuttujana Y1 (lämpökuorma). Voit myös opettaa mallin, joka ennustaa viilennyskuorman (kohdemuuttujan Y2). Voit hyödyntää mallin opettamiseen kolmannessa esimerkissä koodattua valmista funktiota.
+<br><br>
+Opeta malli, joka ennustaa betonin puristuslujuutta. Käytä dataa [Concrete_Data.xlsx](https://taanila.fi/Concrete_Data.xlsx). Datan lähde ja tarkempi kuvaus osoitteessa [https://www.kaggle.com/datasets/elikplim/concrete-compressive-strength-data-set](https://www.kaggle.com/datasets/elikplim/concrete-compressive-strength-data-set). Voit hyödyntää mallin opettamiseen kolmannessa esimerkissä koodattua valmista funktiota.
+
