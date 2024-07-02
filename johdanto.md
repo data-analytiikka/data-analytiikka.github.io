@@ -15,7 +15,7 @@ Tässä osiossa on tarkoituksena:
 
 * Oppimateriaalina on jupyter-muistio [pandas1](https://nbviewer.org/github/taanila/kuvaileva/blob/main/pandas1.ipynb).
 * Lue huolellisesti muistion selitykset ja kommentit.
-* Kirjoita koodisolujen koodit omaan muistioon. Siirry seuraavaan soluun vasta kun saat koodin onnistuneesti suoritettua. Pienimmätkin kirjoitusvirheet aiheuttavat virheilmoituksen. Virheilmoitukset ovat usein vaikeasti tulkittavia, mutta virheilmoituksesta yleensä selviää ainakin millä koodirivillä virhe sijaitsee. Virheilmoituksen viimeiseltä riviltä saatat löytää ymmärettävän selityksen virheestä.
+* Kirjoita koodisolujen koodit omaan muistioon. Siirry seuraavaan soluun vasta kun saat solun koodin onnistuneesti suoritettua. Pienimmätkin kirjoitusvirheet aiheuttavat virheilmoituksen. Virheilmoitukset ovat usein vaikeasti tulkittavia, mutta virheilmoituksesta yleensä selviää ainakin millä koodirivillä virhe sijaitsee. Virheilmoituksen viimeiseltä riviltä saatat löytää ymmärrettävän selityksen virheestä.
 * Jos koodissa jokin asia askarruttaa, niin kannattaa tehdä omia kokeiluja ja kokeilla vaihtoehtoisia koodeja.
 * Lisää omaan muistioosi omia kommentteja ja huomioita. Koodisoluun voit lisätä kommenttirivin kirjoittamalla rivin alkuun risuaidan **#**. Pidempiä tekstejä voit kirjoittaa **Markdown**-soluihin (Colabissa **Text**-soluihin).
 * Tässä ensimmäisessä muistiossa on häkellyttävän paljon opittavaa. Tähän kannattaa käyttää aikaa, koska näin luot hyvän pohjan tulevien osioiden oppimiselle. Kaikkiin tämän muistion asioihin palataan myöhemmissä osioissa.

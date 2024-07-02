@@ -10,7 +10,7 @@ Data-analytiikassa kannattaa käyttää koodin kirjoittamiseen ja suorittamiseen
 
 ### Miniconda
 
-Omalle koneelle asennettavaksi ympäristöksi suosittelen Minicondaa. Lue kuitenkin [Minicondan ja Anacondan vertailu](https://docs.anaconda.com/free/distro-or-miniconda/) ennen kuin päätät.
+Omalle koneelle asennettavaksi ympäristöksi suosittelen Minicondaa. Lue kuitenkin [Minicondan ja Anacondan vertailu](https://docs.anaconda.com/free/distro-or-miniconda/) ennen kuin valitset Mincondan ja Anacondan väliltä.
 
 Minicondan löydät osoitteesta [https://docs.anaconda.com/free/miniconda/](https://docs.anaconda.com/free/miniconda/). Valitse oma käyttöjärjestelmäsi (Windows, MacOS tai Linux) ja asenna Miniconda oletusasetuksilla.
 
@@ -20,11 +20,11 @@ Miniconda sisältää Pythonin ja conda-paketinhallintajärjestelmän. Data-anal
     - Windows-koneilla Windowsin käynnistysvalikosta **Miniconda - Anaconda prompt (miniconda3)**
     - MacOS- ja Linux-koneilla **terminal/pääte**.
 * Komentorivillä voit asentaa tarvitsemasi paketit. Jokaisen asennuskomennon jälkeen kestää hetken ennen kuin conda löytää sinulle sopivan version, jonka jälkeen se kysyy lupaa asennukseen. Vastaa kysymykseen **y**-kirjaimella ja paina **enter**. Data-analytiikkaa varten tarvitset ainakin seuraavat asennukset:
-    - `conda install jupyter` (koodin kirjoittamiseen ja suorittamiseen käytettävä sovellus)
+    - `conda install jupyter` (koodin kirjoittamiseen ja suorittamiseen käytettävä ohjelmointiympäristö)
     - `conda install pandas` (data-analytiikan peruspaketti, jonka mukana asentuu myös numeerisen laskennan peruspaketti numpy)
     - `conda install seaborn` (grafiikka-paketti, jonka mukana asentuu myös grafiikan peruspaketti matplotlib)
     - `conda install scikit-learn` (koneoppimisen paketti, jonka mukana asentuu myös tieteellisen laskennnan peruspaketti scipy)
-    - `conda install statsmodels` (tilastollisten mallien paketti, josta löytyy mm. aikasarjaennustamisen mentelmiä)
+    - `conda install statsmodels` (tilastollisten mallien paketti, josta löytyy mm. aikasarjaennustamisen menetelmiä)
     - `conda install openpyxl` (Excel-tiedostojen avaamiseen)
     - `conda install xlsxwriter` (Excel-tiedostojen kirjoittamiseen).
 

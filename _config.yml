@@ -10,6 +10,7 @@ aux_links:
 aux_links_new_tab: true
 
 footer_content: "Kirjoittaja: Aki Taanila aki@taanila.fi"
+last_edit_timestamp: true
 
 search_enabled: false
 
