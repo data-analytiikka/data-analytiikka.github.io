@@ -1,4 +1,4 @@
-
+---
 title: Python + pandas
 layout: default
 nav_order: 2
