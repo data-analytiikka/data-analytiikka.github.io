@@ -1,6 +1,32 @@
 title: Data-analytiikka
-description: Ohjeita Pythonin käyttöön data-analytiikassa
+description: Github pages testisivusto
 theme: just-the-docs
+last_edit_time_format: "%Y-%m-%d"
 
 url: https://data-analytiikka.github.io
 
+aux_links:
+  Lisämateriaalia: https://tilastoapu.wordpress.com/python
+
+aux_links_new_tab: true
+
+footer_content: "Kirjoittaja: Aki Taanila aki@taanila.fi"
+last_edit_timestamp: true
+
+search_enabled: false
+
+callouts:
+  highlight:
+    color: yellow
+  important:
+    title: Tärkeää
+    color: blue
+  new:
+    title: Harjoitus
+    color: green
+  note:
+    title: Huomautus
+    color: purple
+  warning:
+    title: Varoitus
+    color: red
