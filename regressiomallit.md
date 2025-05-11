@@ -4,7 +4,7 @@ layout: default
 nav_order: 11
 ---
 
-# Ohjatut regressiomallit
+## Ohjatut regressiomallit
 
 Regressiomallit on yleisnimitys koneoppimisen malleille, joissa ennustettava muuttuja eli **kohdemuuttuja** on määrällinen. Regressiomalleja voidaan hyödyntää esimerkiksi seuraavissa:
 
