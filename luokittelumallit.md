@@ -4,7 +4,7 @@ layout: default
 nav_order: 10
 ---
 
-# Ohjatut luokittelumallit
+## Ohjatut luokittelumallit
 
 Luokittelumallit on yleisnimitys koneoppimisen malleille, joissa ennustettava muuttuja eli **kohdemuuttuja** on kategorinen. Luokittelumalleja voidaan hyödyntää esimerkiksi seuraavissa:
 
