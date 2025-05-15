@@ -6,14 +6,14 @@ nav_order: 7
 
 ## Automaattinen analysointi
 
-Paljon muuttujia sisältäville datoille ei kannata esimerkiksi frekvenssitaulukoita laskettaessa kirjoittaa koodia jokaista muuttujaa varten erikseen, vaan kannattaa automatisoida laskenta:
+Paljon muuttujia sisältävälle datalle ei kannata esimerkiksi frekvenssitaulukoita laskettaessa kirjoittaa koodia jokaista muuttujaa varten erikseen, vaan kannattaa automatisoida laskenta:
 
-* Esimerkiksi frekvenssitaulukon laskentaan liittyvän koodin voi kirjoittaa omaksi funktioksi, jolle voi antaa parametriksi muuttujan.
+* Frekvenssitaulukon laskentaan liittyvän koodin voi kirjoittaa omaksi funktioksi, jolle voi antaa parametriksi muuttujan nimen.
 * Koodissa voidaan kutsua omaa funktiota jokaiselle for-silmukassa läpikäytävälle muuttujalle.
 
-[tilastoapu](https://nbviewer.org/github/taanila/selittava/blob/main/tilastoapu.ipynb)-muistiossa on luotu oma funktio frekvenssitaulukon (myös dikotomisille), ristiintaulukoinnin, tunnuslukujen, tunnuslukujen ryhmittäin ja korrelaatiokertoimien laskemiseen. Omissa funktioissa on käytetty aikaisemmissa osioissa opittuja laskentamentelmiä.
+[tilastoapu](https://nbviewer.org/github/taanila/selittava/blob/main/tilastoapu.ipynb)-muistiossa on oma funktio frekvenssitaulukon (myös dikotomisille), ristiintaulukoinnin, tunnuslukujen (myös ryhmittäin) ja korrelaatiokertoimien laskemiseen. Omissa funktioissa on käytetty aikaisemmissa osioissa opittuja laskentamenetelmiä.
 
-Omia funktioita kutsutaan koodissa for-silmukoiden sisältä. Muistion käyttäjän täytyy määritellä listoina kategoriset, dikotomiset ja määrälliset muuttujat. Näiden listojen mukaiset muuttujat käydään for-silmukoissa läpi.
+Omia funktioita kutsutaan koodissa for-silmukoiden sisältä. Muistion käyttäjän pitää määritellä listoina kategoriset, dikotomiset ja määrälliset muuttujat, jotta automatiikka osaa valita kullekin muuttujalle sopivat menetelmät. 
 
 Muistiossa käytetään XlsxWriter-moduulia, jonka avulla tulokset kirjoitetaan ja muotoillaan Excel-tiedostoon. Muistion koodien suorittamisen jälkeen tulokset sisältävä Excel-tiedosto löytyy samasta kansiosta kuin muistio.
 
