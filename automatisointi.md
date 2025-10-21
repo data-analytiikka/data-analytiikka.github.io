@@ -11,7 +11,7 @@ Paljon muuttujia sisältävälle datalle ei kannata esimerkiksi frekvenssitauluk
 * Frekvenssitaulukon laskentaan liittyvän koodin voi kirjoittaa omaksi funktioksi, jolle voi antaa parametriksi muuttujan nimen.
 * Koodissa voidaan kutsua omaa funktiota jokaiselle for-silmukassa läpikäytävälle muuttujalle.
 
-[tilastoapu](https://nbviewer.org/github/taanila/selittava/blob/main/tilastoapu.ipynb)-muistiossa on oma funktio frekvenssitaulukon (myös dikotomisille), ristiintaulukoinnin, tunnuslukujen (myös ryhmittäin) ja korrelaatiokertoimien laskemiseen. Omissa funktioissa on käytetty aikaisemmissa osioissa opittuja laskentamenetelmiä.
+[tilastoapu](https://github.com/taanila/selittava/blob/main/tilastoapu.ipynb)-muistiossa on oma funktio frekvenssitaulukon (myös dikotomisille), ristiintaulukoinnin, tunnuslukujen (myös ryhmittäin) ja korrelaatiokertoimien laskemiseen. Omissa funktioissa on käytetty aikaisemmissa osioissa opittuja laskentamenetelmiä.
 
 Omia funktioita kutsutaan koodissa for-silmukoiden sisältä. Muistion käyttäjän pitää määritellä listoina kategoriset, dikotomiset ja määrälliset muuttujat, jotta automatiikka osaa valita kullekin muuttujalle sopivat menetelmät. 
 
