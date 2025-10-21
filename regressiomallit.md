@@ -21,7 +21,7 @@ Nimestään huolimatta logistinen regressio on luokittelumalli.
 
 Pythonin peruskirjasto koneoppimisen malleille on [scikit-learn](https://scikit-learn.org/stable/index.html), josta yleensä käytettän lyhyempää nimitystä **sklearn**.
 
-[Ensimmäisessä esimerkissä](https://nbviewer.org/github/taanila/koneoppiminen/blob/main/linreg1.ipynb) opit käyttämään lineaarista regressiota yhden selittävän muuttujan tapauksessa. Tässä esimerkissä opetusdatasta ei eroteta testidataa, koska data on liian pieni. Keskeisiä vaiheita ovat:
+[Ensimmäisessä esimerkissä](https://github.com/taanila/koneoppiminen/blob/main/linreg1.ipynb) opit käyttämään lineaarista regressiota yhden selittävän muuttujan tapauksessa. Tässä esimerkissä opetusdatasta ei eroteta testidataa, koska data on liian pieni. Keskeisiä vaiheita ovat:
 
 * graafinen tarkastelu
 * selittävän muuttujan ja kohdemuuttujan määrittely
@@ -30,12 +30,12 @@ Pythonin peruskirjasto koneoppimisen malleille on [scikit-learn](https://scikit-
 * mallin hyvyyden arviointi **selityskertoimen** avulla
 * ennustaminen **predict**-funktiolla.
 
-[Toisessa esimerkissä](https://nbviewer.org/github/taanila/koneoppiminen/blob/main/linreg2.ipynb) mukana on useita selittäviä muuttujia. Tässä esimerkissä opetusdatasta ei eroteta testidataa, koska data on liian pieni. Ensimmäisessä esimerkissä opittujen asioiden lisäksi opit:
+[Toisessa esimerkissä](https://github.com/taanila/koneoppiminen/blob/main/linreg2.ipynb) mukana on useita selittäviä muuttujia. Tässä esimerkissä opetusdatasta ei eroteta testidataa, koska data on liian pieni. Ensimmäisessä esimerkissä opittujen asioiden lisäksi opit:
 
 * tarkastelemaan korrelaatiokertoimia
 * tarkastelemaan mallin hyvyyttä graafisesti.
 
-[Kolmannessa esimerkissä](https://nbviewer.org/github/taanila/koneoppiminen/blob/main/advertising.ipynb) ennustetaan myyntiä eri mainosmedioihin käytetyn rahamäärän perusteella. Esimerkissä kokeillaan kolmea eri mallia:
+[Kolmannessa esimerkissä](https://github.com/taanila/koneoppiminen/blob/main/advertising.ipynb) ennustetaan myyntiä eri mainosmedioihin käytetyn rahamäärän perusteella. Esimerkissä kokeillaan kolmea eri mallia:
 
 * lineaarinen regressio
 * satunnaismetsäregressio
@@ -49,7 +49,7 @@ Esimerkissä koodataan aluksi **yleiskäyttöinen funktio**, joka osaa:
 
 Funktion avulla on helppo kokeilla eri malleja kutsumalla funktiota kunkin mallin kohdalla.
 
-[Neljännessä esimerkissä](https://nbviewer.org/github/taanila/koneoppiminen/blob/main/car_data.ipynb) ennustetaan käytetyn auton hintaa. Uutena asiana opit muuntamaan **kategoriset muuttujat dikotomisiksi muuttujiksi**. Koneoppimisen malleja varten kategoriset selittävät muuttujat täytyy muuntaa dikotomisiksi muuttujiksi. Tämä koskee myös luokittelumalleja.  
+[Neljännessä esimerkissä](https://github.com/taanila/koneoppiminen/blob/main/car_data.ipynb) ennustetaan käytetyn auton hintaa. Uutena asiana opit muuntamaan **kategoriset muuttujat dikotomisiksi muuttujiksi**. Koneoppimisen malleja varten kategoriset selittävät muuttujat täytyy muuntaa dikotomisiksi muuttujiksi. Tämä koskee myös luokittelumalleja.  
 
 {: .new }
 Opeta malli, joka ennustaa rakennuksen lämpökuorman. Lämpökuormaa tarvitaan rakennuksen lämmityslaitteiden mitoitukseen. Käytä dataa [ENB2012_data.xlsx](https://taanila.fi/ENB2012_data.xlsx). Datan lähde ja tarkempi kuvaus osoitteessa [https://www.kaggle.com/datasets/elikplim/eergy-efficiency-dataset](https://www.kaggle.com/datasets/elikplim/eergy-efficiency-dataset). Datassa selittävinä muuttujina ovat X1, X2, X3, X4, X5, X6, X7, X8 ja kohdemuuttujana Y1 (lämpökuorma). Voit myös opettaa mallin, joka ennustaa viilennyskuorman (kohdemuuttujan Y2). Voit hyödyntää mallin opettamiseen kolmannessa esimerkissä koodattua valmista funktiota.
