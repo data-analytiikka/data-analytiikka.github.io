@@ -18,7 +18,7 @@ Erilaisia ohjattuja luokittelumalleja on runsaasti tarjolla. Tämän hetken suos
 
 Pythonin peruskirjasto koneoppimisen malleille on [scikit-learn](https://scikit-learn.org/stable/index.html), josta yleensä käytetään lyhyempää nimitystä **sklearn**.
 
-[Ensimmäisessä esimerkissä](https://nbviewer.org/github/taanila/koneoppiminen/blob/main/iris.ipynb) on klassinen esimerkki kurjenmiekkojen luokittelusta kolmeen alalajiin (setosa, versicolor, virginica). Selittävinä muuttujina käytetään verho- ja terälehtien pituuksia ja leveyksiä. Yksinkertaisuuden vuoksi käytän ensimmäisessä esimerkissä ainoastaan yksinkertaista päätöspuuta, jonka rakennetta voin havainnolistaa päätöspuukaaviona. Esimerkin avulla opit toteuttamaan Pythonilla keskeiset mallin opettamiseen liittyvät toimet:
+[Ensimmäisessä esimerkissä](https://github.com/taanila/koneoppiminen/blob/main/iris.ipynb) on klassinen esimerkki kurjenmiekkojen luokittelusta kolmeen alalajiin (setosa, versicolor, virginica). Selittävinä muuttujina käytetään verho- ja terälehtien pituuksia ja leveyksiä. Yksinkertaisuuden vuoksi käytän ensimmäisessä esimerkissä ainoastaan yksinkertaista päätöspuuta, jonka rakennetta voin havainnolistaa päätöspuukaaviona. Esimerkin avulla opit toteuttamaan Pythonilla keskeiset mallin opettamiseen liittyvät toimet:
 
 * selittävien muuttujien ja kohdemuuttujan määrittely
 * opetusdatan jakaminen varsinaiseen **opetusdataan** ja **testidataan**
@@ -27,14 +27,14 @@ Pythonin peruskirjasto koneoppimisen malleille on [scikit-learn](https://scikit-
 * mallin hyvyyden arviointi **sekaannusmatriisi**n avulla
 * ennustaminen **predict**-funktiolla.
 
-[Toisessa esimerkissä](https://nbviewer.org/github/taanila/koneoppiminen/blob/main/heart.ipynb) opetetaan malli, jonka avulla ennustetaan potilaan riskiä sydänperäiseen kuolemaan. Esimerkissä kokeillaan neljää eri mallia:
+[Toisessa esimerkissä](https://github.com/taanila/koneoppiminen/blob/main/heart.ipynb) opetetaan malli, jonka avulla ennustetaan potilaan riskiä sydänperäiseen kuolemaan. Esimerkissä kokeillaan neljää eri mallia:
 
 * logistinen regressio
 * päätöspuu
 * satunnaismetsä
 * gradienttitehostus.
 
-[Kolmannessa esimerkissä](https://nbviewer.org/github/taanila/koneoppiminen/blob/main/creditcard.ipynb) opetetaan malli, joka tunnistaa petollisia luottokorttitapahtumia. Uutena asiana opit tasapainottamaan opetusdataa. Toteutuneista luottokorttitapahtumista vain murto-osa osoittautuu petoksiksi. Tämän seurauksena opetusdatastakin vain murto-osa on petollisia tapahtumia. Yleensä tällaisen epätasapainoisen opetusdatan avulla ei saada kovin hyviä malleja. Opetusdataa voidaan tasapainottaa lisäämällä siihen alkuperäisten aliedustettujen havaintojen perusteella laskettuja keinotekoisia havaintoja.
+[Kolmannessa esimerkissä](https://github.com/taanila/koneoppiminen/blob/main/creditcard.ipynb) opetetaan malli, joka tunnistaa petollisia luottokorttitapahtumia. Uutena asiana opit tasapainottamaan opetusdataa. Toteutuneista luottokorttitapahtumista vain murto-osa osoittautuu petoksiksi. Tämän seurauksena opetusdatastakin vain murto-osa on petollisia tapahtumia. Yleensä tällaisen epätasapainoisen opetusdatan avulla ei saada kovin hyviä malleja. Opetusdataa voidaan tasapainottaa lisäämällä siihen alkuperäisten aliedustettujen havaintojen perusteella laskettuja keinotekoisia havaintoja.
 
 {: .new }
 Lisää kurjenmiekka-muistioon (ensimmäinen esimerkki) päätöspuun lisäksi logistinen regressio, satunnaismetsä ja gradienttitehostus. Vertaile malleja sekaannusmatriiseja käyttäen.
