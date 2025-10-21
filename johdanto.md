@@ -13,7 +13,7 @@ Tässä osiossa on tarkoituksena:
 
 ### Opiskeluohjeita
 
-* Oppimateriaalina on jupyter-muistio [pandas1](https://nbviewer.org/github/taanila/kuvaileva/blob/main/pandas1.ipynb).
+* Oppimateriaalina on jupyter-muistio [pandas1](https://github.com/taanila/kuvaileva/blob/main/pandas1.ipynb).
 * Lue huolellisesti muistion selitykset ja kommentit.
 * Kirjoita koodisolujen koodit omaan muistioon. Siirry seuraavaan soluun vasta kun saat solun koodin onnistuneesti suoritettua. Pienimmätkin kirjoitusvirheet aiheuttavat virheilmoituksen. Virheilmoitukset ovat usein vaikeasti tulkittavia, mutta virheilmoituksesta yleensä selviää ainakin millä koodirivillä virhe sijaitsee. Virheilmoituksen viimeiseltä riviltä saatat löytää ymmärrettävän selityksen virheestä.
 * Jos koodissa jokin asia askarruttaa, niin kannattaa tehdä omia kokeiluja ja kokeilla vaihtoehtoisia koodeja.
