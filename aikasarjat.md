@@ -6,7 +6,7 @@ nav_order: 8
 
 ## Aikasarjat
 
-* Oppimateriaalina on [aikasarjat](https://nbviewer.org/github/taanila/aikasarjat/blob/main/aikasarjat.ipynb)-muistio.
+* Oppimateriaalina on [aikasarjat](https://github.com/taanila/aikasarjat/blob/main/aikasarjat.ipynb)-muistio.
 
 Muistiossa noudetaan pörssiosakkeiden kehitystä kuvaavat ajantasaiset aikasarjat [Yahoo Finance](https://finance.yahoo.com/) -palvelusta. Aina kun koodi suoritetaan, saadaan käyttöön uusimmat tiedot. Aikasarjojen noutamiseen käytetään **yfinance**-pakettia, jonka voit asentaa:
 
