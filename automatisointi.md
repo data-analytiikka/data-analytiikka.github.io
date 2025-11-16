@@ -19,7 +19,7 @@ Muistiossa käytetään XlsxWriter-moduulia, jonka avulla tulokset kirjoitetaan 
 
 Muistiossa ei ole selitetty XlsxWriterin käyttöä, mutta aiheesta kiinnostuneet löytävät hyvät käyttöohjeet osoitteesta [https://xlsxwriter.readthedocs.io/](https://xlsxwriter.readthedocs.io/).
 
-**UUTTA: **Olen laatinut moduulin **ana.py**, joka sisältää helppokäyttöisiä funktioita kuvailevaan ja selittävään analytiikkaan. Moduuli ja sen käyttöesimerkit löydät osoitteesta [https://github.com/taanila/ana](https://github.com/taanila/ana).
+**UUTTA:** Olen laatinut moduulin **ana.py**, joka sisältää helppokäyttöisiä funktioita kuvailevaan ja selittävään analytiikkaan. Moduuli ja sen käyttöesimerkit löydät osoitteesta [https://github.com/taanila/ana](https://github.com/taanila/ana).
 
 {: .new }
 Harjoittele esimerkki-muistion käyttöä myös muilla datoilla. Sopivia datoja löytyy seaborn-kirjastosta. Kokeile esimerkiksi seuraavilla komennoilla aukeavia datoja: `sns.load_dataset('tips')`, `sns.load_dataset('penguins')`, `sns.load_dataset('diamonds')`, `sns.load_dataset('taxis')`.
