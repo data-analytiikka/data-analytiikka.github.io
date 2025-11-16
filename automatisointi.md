@@ -17,9 +17,10 @@ Omia funktioita kutsutaan koodissa for-silmukoiden sisältä. Muistion käyttäj
 
 Muistiossa käytetään XlsxWriter-moduulia, jonka avulla tulokset kirjoitetaan ja muotoillaan Excel-tiedostoon. Muistion koodien suorittamisen jälkeen tulokset sisältävä Excel-tiedosto löytyy samasta kansiosta kuin muistio.
 
-Muistiossa ei ole selitetty XlsxWriterin käyttöä, mutta aiheesta kiinnostuneet löytävät hyvät käyttöohjeet osoitteesta [https://xlsxwriter.readthedocs.io/](https://xlsxwriter.readthedocs.io/). 
+Muistiossa ei ole selitetty XlsxWriterin käyttöä, mutta aiheesta kiinnostuneet löytävät hyvät käyttöohjeet osoitteesta [https://xlsxwriter.readthedocs.io/](https://xlsxwriter.readthedocs.io/).
+
+**UUTTA: **Olen laatinut moduulin **ana.py**, joka sisältää helppokäyttöisiä funktioita kuvailevaan ja selittävään analytiikkaan. Moduuli ja sen käyttöesimerkit löydät osoitteesta [https://github.com/taanila/ana](https://github.com/taanila/ana).
 
 {: .new }
 Harjoittele esimerkki-muistion käyttöä myös muilla datoilla. Sopivia datoja löytyy seaborn-kirjastosta. Kokeile esimerkiksi seuraavilla komennoilla aukeavia datoja: `sns.load_dataset('tips')`, `sns.load_dataset('penguins')`, `sns.load_dataset('diamonds')`, `sns.load_dataset('taxis')`.
 
-### Olen laatinut moduulin **ana.py**, joka sisältää helppokäyttöisiä funktioita kuvailevaan ja selittävään analytiikkaan. Moduuli ja sen käyttöesimerkit löydät osoitteesta https://github.com/taanila/ana.
