@@ -15,7 +15,7 @@ Käytän esimerkeissä joitain vasta versioon 0.13 tulleita ominaisuuksia. Voit 
 
 Tässä osiossa tutustut joihinkin graafisen esittämisen perustapauksiin. Myöhemmissä osioissa palataan graafiseen esittämiseen ja seaborn-kirjastoon useasti.
 
-* Oppimateriaalina on jypyter-muistio [seaborn1](https://github.com/taanila/kaaviot/blob/master/seaborn1.ipynb).
+* Oppimateriaalina on jypyter-muistio [seaborn](https://github.com/taanila/kaaviot/blob/master/seaborn.ipynb).
 
 {: .new }
 Harjoittele esimerkki-muistion esitystapoja myös joillain muilla datoilla. Kokeile esimerkiksi seuraavilla komennoilla aukeavia datoja: `sns.load_dataset('penguins')`, `sns.load_dataset('diamonds')`, `sns.load_dataset('taxis')`. Samoilla datoilla voit harjoitella ja kerrata myös edellisessä osiossa käsiteltyjä taitoja dataan tutustuminen, suodattaminen ja muuntaminen) 
