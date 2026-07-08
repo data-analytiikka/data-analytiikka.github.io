@@ -12,7 +12,7 @@ Data-analytiikassa kannattaa käyttää koodin kirjoittamiseen ja suorittamiseen
 
 Omalle koneelle asennettavaksi ympäristöksi suosittelen Minicondaa. Lue kuitenkin [Minicondan ja Anacondan vertailu](https://www.anaconda.com/docs/getting-started/miniconda/main#should-i-install-miniconda-or-anaconda-distribution) ennen kuin valitset Mincondan ja Anacondan väliltä.
 
-Minicondan löydät osoitteesta [https://docs.anaconda.com/free/miniconda/](https://docs.anaconda.com/free/miniconda/). Valitse oma käyttöjärjestelmäsi (Windows, MacOS tai Linux) ja asenna Miniconda oletusasetuksilla.
+Minicondan löydät osoitteesta [https://www.anaconda.com/download/success](https://www.anaconda.com/download/success). Valitse oma käyttöjärjestelmäsi (Windows, MacOS tai Linux) ja asenna Miniconda oletusasetuksilla.
 
 Miniconda sisältää Pythonin ja conda-paketinhallintajärjestelmän. Data-analytiikassa tarvittavat lisäpaketit täytyy asentaa Minicondan asennuksen jälkeen condan avulla: 
 
