@@ -17,7 +17,7 @@ Minicondan löydät osoitteesta [https://www.anaconda.com/download/success](http
 Miniconda sisältää Pythonin ja conda-paketinhallintajärjestelmän. Data-analytiikassa tarvittavat lisäpaketit täytyy asentaa Minicondan asennuksen jälkeen condan avulla: 
 
 * Käynnistä asennuksen jälkeen Minicondan komentorivi:
-    - Windows-koneilla Windowsin käynnistysvalikosta **Miniconda - Anaconda prompt (miniconda3)**
+    - Windows-koneilla Windowsin käynnistysvalikosta **Anaconda (miniconda3) - Anaconda prompt**
     - MacOS- ja Linux-koneilla **terminal/pääte**.
 * Komentorivillä voit asentaa tarvitsemasi paketit. Jokaisen asennuskomennon jälkeen kestää hetken ennen kuin conda löytää sinulle sopivan version, jonka jälkeen se kysyy lupaa asennukseen. Vastaa kysymykseen **y**-kirjaimella ja paina **enter**. Data-analytiikkaa varten tarvitset ainakin seuraavat asennukset:
     - `conda install jupyter` (koodin kirjoittamiseen ja suorittamiseen käytettävä ohjelmointiympäristö)
