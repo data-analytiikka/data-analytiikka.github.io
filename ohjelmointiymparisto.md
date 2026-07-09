@@ -21,7 +21,7 @@ Miniforge sisältää Pythonin ja conda-paketinhallintajärjestelmän. Data-anal
     - `conda install jupyter` (koodin kirjoittamiseen ja suorittamiseen käytettävä ohjelmointiympäristö)
     - `conda install pandas` (data-analytiikan peruspaketti, jonka mukana asentuu myös numeerisen laskennan peruspaketti numpy)
     - `conda install seaborn` (grafiikka-paketti, jonka mukana asentuu myös grafiikan peruspaketti matplotlib, tieteellisen laskennan paketti scipy ja tilastollisten mallien paketti statsmodels)
-    - `conda install scikit-learn` (koneoppimisen paketti, jonka mukana asentuu myös tieteellisen laskennnan peruspaketti scipy)
+    - `conda install scikit-learn` (koneoppimisen paketti)
     - `conda install openpyxl` (Excel-tiedostojen avaamiseen)
     - `conda install xlsxwriter` (Excel-tiedostojen kirjoittamiseen).
 
