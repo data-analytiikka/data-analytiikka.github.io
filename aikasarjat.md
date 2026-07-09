@@ -10,7 +10,7 @@ nav_order: 8
 
 Muistiossa noudetaan pörssiosakkeiden kehitystä kuvaavat ajantasaiset aikasarjat [Yahoo Finance](https://finance.yahoo.com/) -palvelusta. Aina kun koodi suoritetaan, saadaan käyttöön uusimmat tiedot. Aikasarjojen noutamiseen käytetään **yfinance**-pakettia, jonka voit asentaa:
 
-* Minicondassa ja Anacondassa kometorivillä komennolla `pip install yfinance`
+* Miniforgessa kometorivillä komennolla `pip install yfinance`
 * Colabissa muistioon kirjoitettavalla komennolla `!pip install yfinance`.
 
 {: .new }
